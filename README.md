@@ -17,11 +17,10 @@
 ---
 
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m Adi Sasson I am a DevOps Engineer & Python Developer, from Israel.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Adi Sasson, from Israel.
+- 👀 I’m looking for a job as DevOps Engineer.   
+- 🌱 I’m currently expanding my knowledge of new technologies in the field of DevOps.
+- 📫 How to reach me? click on the LinkdIn Emoji :point_up:
 
 ---
 
