@@ -8,7 +8,7 @@
 </div>
 <h3>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" width="400"/>
