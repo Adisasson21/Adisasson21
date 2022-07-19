@@ -18,8 +18,8 @@
 
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Adi Sasson from Israel.
-- 👀 I’m looking for a job as DevOps Engineer.   
-- 🌱 I’m currently expanding my knowledge of new technologies in the field of DevOps.
+- 👀 I am seeking a job as a DevOps Engineer.   
+- 🌱 I am enthusiastically researching the latest technologies in DevOps.
 - 📫 How to reach me? click on the LinkdIn Emoji :point_up:
 
 ---
@@ -27,6 +27,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html"  alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium"  alt="selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask"  alt="flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
